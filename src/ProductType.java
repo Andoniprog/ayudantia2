@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public enum ProductType {
+public enum ProductType {
+    Kitchen,Tecnology,Toys,Sports,Clothes
 }
